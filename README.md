@@ -24,11 +24,11 @@
 
 ---
 ## SOBRE MIM!!!
-Bem vindo ao meu github, estou no meu primeiro ano estudando na área da tecnologia da informação
+Bem vindo ao meu github, estou no meu primeiro ano estudando na área da tecnologia da informação!
 
 ---
 
-## OQUE ESTOU APRENDENDO
+## OQUE ESTOU APRENDENDO.
 
 
 <p align="center">
@@ -39,12 +39,7 @@ Bem vindo ao meu github, estou no meu primeiro ano estudando na área da tecnolo
 <summary>📚 Ver lista completa em badges</summary>
 <br>
 
-![HTML5](https://img.shields.io/badge/HTML5-4B5320?style=for-the-badge&logo=html5&logoColor=E6EBD5)
-![CSS3](https://img.shields.io/badge/CSS3-4B5320?style=for-the-badge&logo=css3&logoColor=E6EBD5)
-![JavaScript](https://img.shields.io/badge/JavaScript-4B5320?style=for-the-badge&logo=javascript&logoColor=E6EBD5)
 ![Python](https://img.shields.io/badge/Python-4B5320?style=for-the-badge&logo=python&logoColor=E6EBD5)
-![Java](https://img.shields.io/badge/Java-4B5320?style=for-the-badge&logo=openjdk&logoColor=E6EBD5)
-![MySQL](https://img.shields.io/badge/MySQL-4B5320?style=for-the-badge&logo=mysql&logoColor=E6EBD5)
 ![Git](https://img.shields.io/badge/Git-4B5320?style=for-the-badge&logo=git&logoColor=E6EBD5)
 ![GitHub](https://img.shields.io/badge/GitHub-4B5320?style=for-the-badge&logo=github&logoColor=E6EBD5)
 ![VS Code](https://img.shields.io/badge/VS%20Code-4B5320?style=for-the-badge&logo=visualstudiocode&logoColor=E6EBD5)
