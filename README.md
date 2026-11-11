@@ -23,21 +23,13 @@
 </p>
 
 ---
-
-## 🪖 Sobre mim
-
-- 👋 Olá! Eu sou o **Israel Lucas Marques**
-- 🎓 Estudante do **Ensino Médio** com **curso técnico em Desenvolvimento de Sistemas**
-- 🔭 Atualmente trabalhando em **NOME DO PROJETO**
-- 🌱 Estudando **lógica de programação, banco de dados e desenvolvimento web**
-- 👯 Aberto a colaborar em projetos **open source**
-- 💬 Pergunte-me sobre **programação, tecnologia e estudos**
-- 📍 Brasil 🇧🇷
-- 🎯 Objetivo: construir uma carreira sólida na área de tecnologia
+## SOBRE MIM!!!
+Bem vindo ao meu github, estou no meu primeiro ano estudando na área da tecnologia da informação
 
 ---
 
-## ⚔️ Arsenal tecnológico
+## OQUE ESTOU APRENDENDO
+
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,python,java,git,github,mysql,vscode,linux&perline=10&theme=dark" alt="Tecnologias" />
