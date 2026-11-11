@@ -29,8 +29,7 @@ Bem vindo ao meu github, estou no meu primeiro ano estudando na área da tecnolo
 ---
 
 ## OQUE ESTOU APRENDENDO.
-
-
+Tecnologias e linguagens que estou aprendendo: 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=,python,git,github,vscode&perline=10&theme=dark" alt="Tecnologias" />
 </p>
