@@ -32,7 +32,7 @@ Bem vindo ao meu github, estou no meu primeiro ano estudando na área da tecnolo
 
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode,linux&perline=10&theme=dark" alt="Tecnologias" />
+  <img src="https://skillicons.dev/icons?i=,python,git,github,vscode&perline=10&theme=dark" alt="Tecnologias" />
 </p>
 
 <details>
