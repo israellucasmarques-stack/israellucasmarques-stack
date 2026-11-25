@@ -3,10 +3,10 @@
   Tema: verde militar 🪖
   Como usar:
   1. Crie um repositório PÚBLICO com o MESMO nome do seu usuário
-     (ex.: github.com/seu-usuario/seu-usuario)
+     (ex.: github.com/israellucasmarques-stack/israellucasmarques-stack)
   2. Marque a opção "Add a README file"
   3. Cole este conteúdo no README.md
-  4. Troque tudo que está como SEU-USUARIO, SEU-LINKEDIN etc.
+  4. Troque tudo que está como israellucasmarques-stack, SEU-LINKEDIN etc.
 ============================================================ -->
 
 <p align="center">
@@ -18,8 +18,8 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SEU-USUARIO&label=Visitas&color=4B5320&style=for-the-badge" alt="Contador de visitas" />
-  <img src="https://img.shields.io/github/followers/SEU-USUARIO?label=Seguidores&style=for-the-badge&color=6B8E23&labelColor=1b2210" alt="Seguidores" />
+  <img src="https://komarev.com/ghpvc/?username=israellucasmarques-stack&label=Visitas&color=4B5320&style=for-the-badge" alt="Contador de visitas" />
+  <img src="https://img.shields.io/github/followers/israellucasmarques-stack?label=Seguidores&style=for-the-badge&color=6B8E23&labelColor=1b2210" alt="Seguidores" />
 </p>
 
 ---
@@ -54,12 +54,12 @@ Tecnologias e ferramentas que estou estudando:
 ## 📊 Relatório de campo (estatísticas do GitHub)
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&hide_border=true&count_private=true&bg_color=1b2210&title_color=9ACD32&text_color=C5D1A5&icon_color=6B8E23" alt="Estatísticas" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&hide_border=true&bg_color=1b2210&title_color=9ACD32&text_color=C5D1A5" alt="Linguagens mais usadas" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=israellucasmarques-stack&show_icons=true&hide_border=true&count_private=true&bg_color=1b2210&title_color=9ACD32&text_color=C5D1A5&icon_color=6B8E23" alt="Estatísticas" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=israellucasmarques-stack&layout=compact&hide_border=true&bg_color=1b2210&title_color=9ACD32&text_color=C5D1A5" alt="Linguagens mais usadas" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=SEU-USUARIO&hide_border=true&background=1b2210&ring=9ACD32&fire=6B8E23&currStreakNum=C5D1A5&sideNums=C5D1A5&currStreakLabel=9ACD32&sideLabels=9ACD32&dates=8A9A5B" alt="Streak" />
+  <img src="https://streak-stats.demolab.com/?user=israellucasmarques-stack&hide_border=true&background=1b2210&ring=9ACD32&fire=6B8E23&currStreakNum=C5D1A5&sideNums=C5D1A5&currStreakLabel=9ACD32&sideLabels=9ACD32&dates=8A9A5B" alt="Streak" />
 </p>
 
 ---
@@ -69,13 +69,13 @@ Tecnologias e ferramentas que estou estudando:
 <table>
   <tr>
     <td width="50%">
-      <a href="https://github.com/SEU-USUARIO/PROJETO-1">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=SEU-USUARIO&repo=PROJETO-1&hide_border=true&bg_color=1b2210&title_color=9ACD32&text_color=C5D1A5&icon_color=6B8E23" alt="Projeto 1" />
+      <a href="https://github.com/israellucasmarques-stack/PROJETO-1">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=israellucasmarques-stack&repo=PROJETO-1&hide_border=true&bg_color=1b2210&title_color=9ACD32&text_color=C5D1A5&icon_color=6B8E23" alt="Projeto 1" />
       </a>
     </td>
     <td width="50%">
-      <a href="https://github.com/SEU-USUARIO/PROJETO-2">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=SEU-USUARIO&repo=PROJETO-2&hide_border=true&bg_color=1b2210&title_color=9ACD32&text_color=C5D1A5&icon_color=6B8E23" alt="Projeto 2" />
+      <a href="https://github.com/israellucasmarques-stack/PROJETO-2">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=israellucasmarques-stack&repo=PROJETO-2&hide_border=true&bg_color=1b2210&title_color=9ACD32&text_color=C5D1A5&icon_color=6B8E23" alt="Projeto 2" />
       </a>
     </td>
   </tr>
@@ -86,7 +86,7 @@ Tecnologias e ferramentas que estou estudando:
 ## 🏅 Condecorações
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SEU-USUARIO&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Troféus" />
+  <img src="https://github-profile-trophy.vercel.app/?username=israellucasmarques-stack&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Troféus" />
 </p>
 
 ---
