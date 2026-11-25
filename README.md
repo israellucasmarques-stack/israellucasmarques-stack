@@ -10,11 +10,11 @@
 ============================================================ -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1b2210,50:4B5320,100:6B8E23&height=180&section=header&text=Israel%20Lucas%20Marques&fontSize=42&fontColor=E6EBD5&animation=fadeIn&fontAlignY=38&desc=FUTURO%3A%20DESENVOLVEDOR%DE%SISTEMAS%20c%C3%B3digo&descSize=18&descAlignY=60" alt="Cabeçalho" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1b2210,50:4B5320,100:6B8E23&height=200&section=header&text=Israel%20Lucas%20Marques&fontSize=42&fontColor=E6EBD5&animation=fadeIn&fontAlignY=38&desc=Futuro%20Desenvolvedor%20de%20Sistemas&descSize=22&descAlignY=60&descColor=C5D1A5" alt="Israel Lucas Marques - Futuro Desenvolvedor de Sistemas" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=9ACD32&center=true&vCenter=true&width=600&lines=Estudante+do+Ensino+M%C3%A9dio;T%C3%A9cnico+em+Desenvolvimento+de+Sistemas;Disciplina+%2B+Foco+%2B+C%C3%B3digo;Sempre+evoluindo%2C+um+commit+por+vez" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=9ACD32&center=true&vCenter=true&width=650&lines=Futuro+Desenvolvedor+de+Sistemas;Estudante+do+Ensino+M%C3%A9dio+T%C3%A9cnico;Disciplina+%2B+Foco+%2B+C%C3%B3digo;Sempre+evoluindo%2C+um+commit+por+vez" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -23,19 +23,23 @@
 </p>
 
 ---
-## SOBRE MIM!!!
-Bem vindo ao meu github, estou no meu primeiro ano estudando na área da tecnologia da informação!
+
+## 🪖 Sobre mim
+
+Bem-vindo ao meu GitHub! Estou no meu primeiro ano estudando na área de tecnologia da informação e meu objetivo é me tornar **Desenvolvedor de Sistemas**. Aqui eu registro minha evolução, meus estudos e meus projetos, um commit por vez.
 
 ---
 
-## OQUE ESTOU APRENDENDO.
-Tecnologias e linguagens que estou aprendendo: 
+## 📚 O que estou aprendendo
+
+Tecnologias e ferramentas que estou estudando:
+
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=,python,git,github,vscode&perline=10&theme=dark" alt="Tecnologias" />
+  <img src="https://skillicons.dev/icons?i=python,git,github,vscode&perline=10&theme=dark" alt="Tecnologias" />
 </p>
 
 <details>
-<summary>📚 Ver lista completa em badges</summary>
+<summary>📋 Ver lista completa em badges</summary>
 <br>
 
 ![Python](https://img.shields.io/badge/Python-4B5320?style=for-the-badge&logo=python&logoColor=E6EBD5)
